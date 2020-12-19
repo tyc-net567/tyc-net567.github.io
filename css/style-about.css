@@ -1,0 +1,22 @@
+.about {
+    padding: 40px;
+    width: 100%;
+    background-color: black;
+    background-image: url(../img/about-img.jpg);
+    background-position: center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.about h1 {
+    width: calc(100% - 80px);
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+.about p {
+    width: calc(100% - 80px);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
